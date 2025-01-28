@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: rgb(103, 165, 76);
+}
+.nav {
+  background-color: rgb(220, 183, 35);
+}

@@ -1,0 +1,300 @@
+@media (max-width: 576px) {
+  .col-1 {
+    grid-template-columns: repeat(12, 1fr);
+    /* text-align: center; */
+  }
+  .col-2 {
+    grid-template-columns: repeat(11, 1fr);
+    /* text-align: center; */
+  }
+  .col-3 {
+    grid-template-columns: repeat(10, 1fr);
+    /* text-align: center; */
+  }
+  .col-4 {
+    grid-template-columns: repeat(9, 1fr);
+    /* text-align: center; */
+  }
+  .col-5 {
+    grid-template-columns: repeat(8, 1fr);
+    /* text-align: center; */
+  }
+  .col-6 {
+    grid-template-columns: repeat(7, 1fr);
+    /* text-align: center; */
+  }
+  .col-7 {
+    grid-template-columns: repeat(6, 1fr);
+    /* text-align: center; */
+  }
+  .col-8 {
+    grid-template-columns: repeat(5, 1fr);
+    /* text-align: center; */
+  }
+  .col-9 {
+    grid-template-columns: repeat(4, 1fr);
+    /* text-align: center; */
+  }
+  .col-10 {
+    grid-template-columns: repeat(3, 1fr);
+    /* text-align: center; */
+  }
+  .col-11 {
+    grid-template-columns: repeat(2, 1fr);
+    /* text-align: center; */
+  }
+  .col-12 {
+    grid-template-columns: repeat(1, 1fr);
+    /* text-align: center; */
+  }
+}
+@media (min-width: 576px) {
+  .col-sm-1 {
+    grid-template-columns: repeat(12, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-2 {
+    grid-template-columns: repeat(11, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-3 {
+    grid-template-columns: repeat(10, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-4 {
+    grid-template-columns: repeat(9, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-5 {
+    grid-template-columns: repeat(8, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-6 {
+    grid-template-columns: repeat(7, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-7 {
+    grid-template-columns: repeat(6, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-8 {
+    grid-template-columns: repeat(5, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-9 {
+    grid-template-columns: repeat(4, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-10 {
+    grid-template-columns: repeat(3, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-11 {
+    grid-template-columns: repeat(2, 1fr);
+    /* text-align: center; */
+  }
+  .col-sm-12 {
+    grid-template-columns: repeat(1, 1fr);
+    /* text-align: center; */
+  }
+}
+@media (min-width: 768px) {
+  .col-md-1 {
+    grid-template-columns: repeat(12, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-2 {
+    grid-template-columns: repeat(11, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-3 {
+    grid-template-columns: repeat(10, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-4 {
+    grid-template-columns: repeat(9, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-5 {
+    grid-template-columns: repeat(8, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-6 {
+    grid-template-columns: repeat(7, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-7 {
+    grid-template-columns: repeat(6, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-8 {
+    grid-template-columns: repeat(5, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-9 {
+    grid-template-columns: repeat(4, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-10 {
+    grid-template-columns: repeat(3, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-11 {
+    grid-template-columns: repeat(2, 1fr);
+    /* text-align: center; */
+  }
+  .col-md-12 {
+    grid-template-columns: repeat(1, 1fr);
+    /* text-align: center; */
+  }
+}
+@media (min-width: 992px) {
+  .col-lg-1 {
+    grid-template-columns: repeat(12, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-2 {
+    grid-template-columns: repeat(11, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-3 {
+    grid-template-columns: repeat(10, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-4 {
+    grid-template-columns: repeat(9, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-5 {
+    grid-template-columns: repeat(8, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-6 {
+    grid-template-columns: repeat(7, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-7 {
+    grid-template-columns: repeat(6, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-8 {
+    grid-template-columns: repeat(5, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-9 {
+    grid-template-columns: repeat(4, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-10 {
+    grid-template-columns: repeat(3, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-11 {
+    grid-template-columns: repeat(2, 1fr);
+    /* text-align: center; */
+  }
+  .col-lg-12 {
+    grid-template-columns: repeat(1, 1fr);
+    /* text-align: center; */
+  }
+}
+@media (min-width: 1200px) {
+  .col-xl-1 {
+    grid-template-columns: repeat(12, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-2 {
+    grid-template-columns: repeat(11, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-3 {
+    grid-template-columns: repeat(10, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-4 {
+    grid-template-columns: repeat(9, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-5 {
+    grid-template-columns: repeat(8, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-6 {
+    grid-template-columns: repeat(7, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-7 {
+    grid-template-columns: repeat(6, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-8 {
+    grid-template-columns: repeat(5, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-9 {
+    grid-template-columns: repeat(4, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-10 {
+    grid-template-columns: repeat(3, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-11 {
+    grid-template-columns: repeat(2, 1fr);
+    /* text-align: center; */
+  }
+  .col-xl-12 {
+    grid-template-columns: repeat(1, 1fr);
+    /* text-align: center; */
+  }
+}
+@media (min-width: 1400px) {
+  .col-xxl-1 {
+    grid-template-columns: repeat(12, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-2 {
+    grid-template-columns: repeat(11, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-3 {
+    grid-template-columns: repeat(10, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-4 {
+    grid-template-columns: repeat(9, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-5 {
+    grid-template-columns: repeat(8, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-6 {
+    grid-template-columns: repeat(7, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-7 {
+    grid-template-columns: repeat(6, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-8 {
+    grid-template-columns: repeat(5, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-9 {
+    grid-template-columns: repeat(4, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-10 {
+    grid-template-columns: repeat(3, 1fr);
+    /* text-align: center; */
+  }
+  .col-xxl-11 {
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+  }
+  .col-xxl-12 {
+    grid-template-columns: repeat(1, 1fr);
+    text-align: center;
+  }
+}

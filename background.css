@@ -1,0 +1,132 @@
+.footer {
+  background-color: rgb(242, 240, 230);
+}
+
+.banner,
+.content-box,
+.author {
+  background-color: rgb(245, 245, 245);
+}
+.content-2,
+.main-course,
+.blog,
+.review {
+  background-color: rgb(255, 255, 255);
+}
+.tag-btn {
+  background-color: rgba(8, 169, 230, 0.1);
+}
+/* setting the nav bar */
+.nav .nav-item .nav-link {
+  color: white;
+}
+.nav .nav-item .nav-link:hover {
+  color: black;
+}
+.nav .nav-item .dropdown #dropdownMenuButton1 {
+  color: white;
+  border: none;
+  box-shadow: none;
+}
+.dropdown-menu {
+  color: white;
+  border: none;
+  box-shadow: none;
+  z-index: 1055 !important;
+  transition: translate(0, 80px) 1s;
+}
+#nav-index a {
+  color: black;
+}
+#nav-index a:hover {
+  text-decoration: underline;
+}
+#nav-index a:active {
+  text-decoration: underline;
+}
+#sign:hover {
+  background-color: #000 !important;
+}
+#sign a {
+  /* background-color: #000; */
+  color: #fff !important;
+}
+.navbar-nav {
+  background-color: rgb(103, 165, 76);
+}
+#category {
+  color: rgb(44, 44, 43);
+  font-size: 1rem;
+}
+@media (max-width: 1199px) {
+  #category {
+    display: none;
+  }
+}
+.blog-content-item {
+  height: fit-content;
+}
+.course-item {
+  transition: transform 0.3s ease;
+}
+.course-item:hover {
+  transform: translateY(-10px);
+}
+@keyframes slideUp {
+  from {
+    transform: translateY(100px);
+  }
+  /* to {
+    transform: translateY(32px);
+  } */
+}
+.langu {
+  animation: slideUp 0.4s;
+  translate: -61px 0;
+}
+@keyframes slide {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(5px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+.banner-film,
+.mail,
+.off-course,
+.student-exp {
+  animation: slide 1.5s linear infinite;
+  /* transform: translateY(10px); */
+}
+@keyframes rotate {
+  0% {
+    transform: translate(0px);
+  }
+  50% {
+    transform: translate(10px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+.banner-item:hover,
+.img-part:hover {
+  animation: rotate 3s linear infinite;
+}
+
+.flat {
+  transition: transform 0.5s ease;
+}
+.flat:hover {
+  transform: translateY(-10px);
+}
+#corporation {
+  background-color: rgb(230, 246, 252);
+}
+#Explore {
+  background-color: rgb(103, 165, 76);
+}
